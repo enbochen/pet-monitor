@@ -4,12 +4,14 @@ pet monitor by Raspberry Pi and AWS kinesis video stream
 ![preview](preview.gif)
 
 ## Hardware
-Raspberry Pi
 
-## Cloud
+- Raspberry Pi (3 Model B or later, Zero W) 
+- Raspberry Pi Camera (preferred infrared camera for certain pets)
+
+## Cloud Service
 
 - AWS Kinesis Video Stream
-- AWS System Manager
+- AWS System Manager (Optional)
 
 ## Start
 
