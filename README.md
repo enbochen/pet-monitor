@@ -1,5 +1,5 @@
 # pet-monitor
-pet monitor by Raspberry Pi and AWS kinesis video stream
+A pet monitoring solution with Raspberry Pi and AWS kinesis video stream
 
 ![preview](preview.gif)
 
