@@ -1,6 +1,8 @@
 # pet-monitor
 pet monitor by Raspberry Pi and AWS kinesis video stream
 
+![preview](preview.gif)
+
 ## Hardware
 Raspberry Pi
 
